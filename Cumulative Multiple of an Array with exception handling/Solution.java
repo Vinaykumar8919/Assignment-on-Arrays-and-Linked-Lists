@@ -39,6 +39,6 @@ public class Solution {
         read(n, arr);
         cumulativeMultiple(n, arr);
         display(n, arr);
-        sc.close();
+        sc.close(); //close
     }
 }
