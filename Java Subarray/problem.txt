@@ -1,0 +1,16 @@
+The first line contains a single integer, , denoting the length of array .
+The second line contains  space-separated integers describing each respective element, , in array .
+
+Constraints
+
+Output Format
+
+Print the number of subarrays of  having negative sums.
+
+Sample Input
+
+5
+1 -2 4 -5 1
+Sample Output
+
+9
