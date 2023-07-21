@@ -1,0 +1,19 @@
+{}()
+({()})
+{}(
+[]
+
+
+true
+true
+false
+true
+
+
+Examples of some correctly balanced strings are: "{}()", "[{()}]", "({()})"
+
+Examples of some unbalanced strings are: "{}(", "({)}", "[[", "}{" etc.
+
+Given a string, determine if it is balanced or not.
+
+link =  https://www.hackerrank.com/challenges/java-stack/problem?isFullScreen=true
